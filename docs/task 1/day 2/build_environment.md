@@ -17,7 +17,7 @@ The project uses the **Arduino framework** with the **Espressif Arduino Core for
 
 The ESP32 Arduino core was installed through the Arduino IDE Boards Manager.
 
-![ESP32 Board Configuration](images/board-settings.png)
+
 
 ---
 
@@ -62,7 +62,7 @@ The following libraries were installed through the Arduino IDE Library Manager:
 
 The libraries were verified through the Arduino IDE Library Manager and are available for use in the project.
 
-![Installed Libraries](images/libraries.png)
+![Installed Libraries](images/installed libraries.png)
 
 ---
 
@@ -74,7 +74,7 @@ The test confirmed that the selected ESP32 board configuration and required libr
 
 The Serial Monitor was configured at **115200 baud** for runtime verification.
 
-![Build Test](images/build-test.png)
+
 
 ---
 
