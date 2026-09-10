@@ -16,8 +16,4 @@ The following libraries were installed through the Arduino IDE Library Manager f
 
 The libraries were successfully installed and are available for use in the project.
 
-### Library Manager Verification
 
-The installed libraries were verified using the Arduino IDE Library Manager.
-
-![Installed Libraries](images/libraries.png)
